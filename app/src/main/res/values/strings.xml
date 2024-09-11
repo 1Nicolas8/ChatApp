@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="title_chat_planner">Chat Planeador</string>
+    <string name="title_chat_citizen">Chat Ciudadano</string>
+    <string name="hint_message">Escribe tu mensaje</string>
+    <string name="btn_send">Enviar</string>
+</resources>
